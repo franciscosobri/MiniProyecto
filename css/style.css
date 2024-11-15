@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    
+}
+
+header{
+
+    background-color: blueviolet;
+    
+    font-size: 20px;
+}
+
+#cart{
+    width: 35px;
+}
+
+#user{
+    width: 28px;
+}
+
+.carousel-inner img {
+    height: 500px; 
+    object-fit: cover; 
+}
+
+.hero{
+    text-shadow: 1.5px 1.5px 1.5px black;
+}
